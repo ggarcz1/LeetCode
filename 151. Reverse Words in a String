@@ -1,3 +1,6 @@
+/*
+ * Given an input string, reverse the string word by word.
+*/
 class Solution {
     public String reverseWords(String s) {
         //remove all spaces and add to string array
